@@ -31,3 +31,14 @@ Simple issues that *anyone* can **help fix** are, for example,
 If you feel that some topic is missing entirely, you may also mention that.
 The materials here are considered a **permanent work-in-progress**.
 
+
+## About the Author
+
+Alexander Hess is a PhD student
+    at the Chair of Logistics Management at [WHU - Otto Beisheim School of Management](https://www.whu.edu)
+    where he conducts research on urban delivery platforms
+    and teaches coding and data science courses
+    based on Python & SQL in the BSc and MBA programs.
+
+Connect with him on [LinkedIn](https://www.linkedin.com/in/webartifex).
+
