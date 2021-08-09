@@ -19,3 +19,15 @@ Yet, to ensure that
     with all the required software on it.
 The estimated time for this should be around *one hour*.
 
+
+## Contributing
+
+Feedback **is highly encouraged** and will be incorporated.
+Open an issue in the [issues tracker <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://github.com/webartifex/intro-to-sql/issues)
+    or initiate a [pull request <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://help.github.com/en/articles/about-pull-requests)
+    if you are familiar with the concept.
+Simple issues that *anyone* can **help fix** are, for example,
+    **spelling mistakes** or **broken links**.
+If you feel that some topic is missing entirely, you may also mention that.
+The materials here are considered a **permanent work-in-progress**.
+
